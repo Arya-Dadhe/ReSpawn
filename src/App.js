@@ -24,7 +24,7 @@ function App() {
         <div className="main">
           <div className="content">
             <div className="para">
-              <h1>Hello</h1>
+              <h1>Hello World</h1>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </div>
             <div className="image">
